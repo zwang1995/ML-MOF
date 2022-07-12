@@ -6,14 +6,15 @@ This repository contains the data and scripts involved in the publication:
 
 <img src="https://github.com/zwang1995/ML-MOF/blob/main/ML-MOF.png" width="600">
 
-## Required packages (Python 3.7)
+## Key packages (Python 3.7)
 * [PyTorch](https://pytorch.org/): build ML models
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): build ML models
-* [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpret ML models
-* [seaborn](https://seaborn.pydata.org/): create visualizations
+* [scikit-learn](https://scikit-learn.org/stable/): data processing
+* [RDKit](https://www.rdkit.org/): construct molecular structures
 
 ## Software
-* [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
+* [GCMC](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
+* [Zeo++](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
 
 ## Maintainer
 Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
