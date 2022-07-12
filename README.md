@@ -7,8 +7,8 @@ This repository contains the data and scripts involved in the publication:
 <img src="https://github.com/zwang1995/ML-MOF/blob/main/ML-MOF.png" width="600">
 
 ## Required packages (Python 3.7)
-* [matminer](https://matminer.readthedocs.io/en/latest/): calculate classical force-field inspired descriptors of MOF structures
-* [scikit-learn](https://scikit-learn.org/stable/): build ML models
+* [PyTorch](https://pytorch.org/): build ML models
+* [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): build ML models
 * [SHAP](https://shap.readthedocs.io/en/latest/index.html): interpret ML models
 * [seaborn](https://seaborn.pydata.org/): create visualizations
 
