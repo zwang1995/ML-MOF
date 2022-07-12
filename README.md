@@ -11,6 +11,7 @@ This repository contains the data and scripts involved in the publication:
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): build ML models
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
 * [RDKit](https://www.rdkit.org/): construct molecular structures
+* [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Software
 * [GCMC](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
