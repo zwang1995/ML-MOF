@@ -4,7 +4,7 @@ This repository contains the data and scripts involved in the publication:
 
 **_[Identification of optimal metal-organic frameworks by machine learning: Structure decomposition, feature integration, and predictive modeling](https://doi.org/10.1016/j.compchemeng.2022.107739)_**
 
-<img src="https://github.com/zwang1995/IML-MOF/blob/main/IML-MOF.png" width="600">
+<img src="https://github.com/zwang1995/ML-MOF/blob/main/ML-MOF.png" width="600">
 
 ## Required packages (Python 3.7)
 * [matminer](https://matminer.readthedocs.io/en/latest/): calculate classical force-field inspired descriptors of MOF structures
