@@ -14,8 +14,8 @@ This repository contains the data and scripts involved in the publication:
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Software
-* [GCMC](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
-* [Zeo++](http://www.yapcwsoft.com/dd/padeldescriptor/): produce PubChem fingerprints of MOF structures
+* [RASPA](https://iraspa.org/raspa/): molecular simulation
+* [Zeo++](http://zeoplusplus.org/): structure analysis for porous materials
 
 ## Maintainer
 Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
