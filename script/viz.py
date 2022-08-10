@@ -35,7 +35,7 @@ df["S"] = df["C2H6_100"] / df["C2H4_100"] * 15
 df["color"] = [color_metal(t) for t in df["metal_smiles"]]
 
 " Figure 4 & 9 "
-# pasity_plot()
+# parity_plot()
 
 " Figure 5 & 10 "
 # hist_plot()
