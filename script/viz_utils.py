@@ -131,7 +131,7 @@ def H2_screening():
     plt.scatter(GCMC, ML, c="tab:blue", s=20, alpha=0.7, linewidths=0)
     plt.savefig("H2_screening_scatter", dpi=300, bbox_inches="tight", transparent=True)
 
-def pasity_plot(density=False):
+def parity_plot(density=False):
     def get_setting(prop):
         if prop == "H2_100":
             df = pd.read_csv("./Pasity/1_32_mean_sigmoid_64_H2_100_all_single.csv")
