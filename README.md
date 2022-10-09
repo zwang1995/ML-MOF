@@ -7,14 +7,14 @@ This repository contains the data and scripts involved in the publication:
 <img src="https://github.com/zwang1995/ML-MOF/blob/main/ML-MOF.png" width="600">
 
 ## Key packages (Python 3.7)
-* [PyTorch](https://pytorch.org/) & [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): ML model development
+* [PyTorch](https://pytorch.org/) & [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): development of ML models
 * [scikit-learn](https://scikit-learn.org/stable/): data processing
-* [RDKit](https://www.rdkit.org/): construction of molecular structures
+* [RDKit](https://www.rdkit.org/): cheminformatics
 * [matplotlib](https://matplotlib.org/) & [seaborn](https://seaborn.pydata.org/): visualization
 
 ## Software
 * [RASPA](https://iraspa.org/raspa/): molecular simulation
-* [Zeo++](http://zeoplusplus.org/): structure analysis for porous materials
+* [Zeo++](http://zeoplusplus.org/): analysis of porous materials
 
 ## Maintainer
 Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
