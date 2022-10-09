@@ -1,4 +1,4 @@
-# Machine Learning (ML) Accelerating the Discovery of Metal-Organic Frameworks (MOFs)
+# Machine Learning (ML) for the Discovery of Metal-Organic Frameworks (MOFs)
 
 This repository contains the data and scripts involved in the publication:
 
