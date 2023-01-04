@@ -18,5 +18,6 @@ This repository contains the data and scripts involved in the publication:
 
 ## Authors
 * Zihao Wang (zwang@mpi-magdeburg.mpg.de)
+* Yageng Zhou
 * [Prof. Dr.-Ing. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 * [Prof. Dr.-Ing. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/16345)
