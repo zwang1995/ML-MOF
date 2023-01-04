@@ -2,7 +2,7 @@
 
 This repository contains the data and scripts involved in the publication:
 
-**_[Identification of optimal metal-organic frameworks by machine learning: Structure decomposition, feature integration, and predictive modeling](https://doi.org/10.1016/j.compchemeng.2022.107739)_**
+**[Identification of Optimal Metal-Organic Frameworks by Machine Learning: Structure Decomposition, Feature Integration, and Predictive Modeling](https://doi.org/10.1016/j.compchemeng.2022.107739)**
 
 <img src="https://github.com/zwang1995/ML-MOF/blob/main/ML-MOF.png" width="600">
 
