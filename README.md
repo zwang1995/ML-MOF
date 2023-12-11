@@ -17,7 +17,7 @@ This repository contains the data and scripts involved in the publication:
 * [Zeo++](http://zeoplusplus.org/): analysis of porous materials
 
 ## Authors
-* [Zihao Wang](https://www.mpi-magdeburg.mpg.de/person/109361/842836)
+* [Zihao Wang](https://zwang1995.github.io)
 * Yageng Zhou
 * [Prof. Dr.-Ing. Teng Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHOU-Teng/tengzhou)
 * [Prof. Dr.-Ing. Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/16345)
